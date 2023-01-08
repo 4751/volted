@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.n','volted.ne','volted.net','volted.ne','volted.n','volted.','volted','volte','volt','vol','vo','v']);
+  app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.c','volted.cc','volted.c','volted.','volted','volte','volt','vol','vo','v']);
   app.iconChanger(['assets/icons/rose.png']);
 });
 
