@@ -38,7 +38,7 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Youtube',
+      name: 'Y',
       link: 'https://www.youtube.com/',
     },
     {
