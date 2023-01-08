@@ -66,7 +66,7 @@ $(document).ready(() => {
 
     link = $('#marquee').children('a').last();
 
-    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="assets/others/mgh_17.png"> ');
+    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="assets/others/giphy.gif"> ');
   }
 
   if (mobileAndTabletCheck()) {
