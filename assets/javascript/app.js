@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['11 years old kids team', 'pro roblox players', 'xane ddosers', 'trashtalkers', 'esoterik fanboys', 'hack vs hack team'];
+  brandDescription = ['OG#2624', 'trashtalkers', 'hack vs hack team', 'notoriou$', 'winning since 2009', 'You are listening to: Tazdied - Dead to me'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
