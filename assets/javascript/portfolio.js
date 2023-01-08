@@ -76,7 +76,7 @@ $(document).ready(() => {
   }
 
   app.titleChanger(['volted.net']);
-  app.iconChanger(['assets/icons/roses/mgh_17.png']);
+  app.iconChanger(['assets/icons/obnoxious.jpg']);
 });
 
 if ($.cookie('videoTime')) {
