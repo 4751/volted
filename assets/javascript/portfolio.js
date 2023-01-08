@@ -38,24 +38,24 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Y',
-      link: 'https://www.youtube.com/',
+      name: 'Steam',
+      link: 'https://steamcommunity.com/id/jidsv',
     },
     {
-      name: 'Neso',
-      link: '76561198193201687',
+      name: 'Discord',
+      link: 'https://discord.com/invite/MSgu32t',
     },
     {
-      name: 'loljuxd',
-      link: '76561198016198032',
+      name: 'Twitch',
+      link: 'https://www.twitch.tv/eswj',
     },
     {
-      name: 'Lost',
-      link: '76561199079530557',
+      name: 'Weheartit',
+      link: 'https://weheartit.com/scripter',
     },
     {
-      name: 'mannin',
-      link: '76561197975672336',
+      name: 'SoundCloud',
+      link: 'https://soundcloud.com/0154',
     },
   ];
 
