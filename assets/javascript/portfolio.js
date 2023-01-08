@@ -38,8 +38,8 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Lummit',
-      link: '76561197960276740',
+      name: 'Youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       name: 'Neso',
