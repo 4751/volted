@@ -76,7 +76,7 @@ $(document).ready(() => {
   }
 
   app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.n','volted.ne','volted.net']);
-  app.iconChanger(['assets/icons/giphy.gif']);
+  app.iconChanger(['assets/icons/_uzi_.png']);
 });
 
 if ($.cookie('videoTime')) {
