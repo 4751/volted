@@ -66,7 +66,7 @@ $(document).ready(() => {
 
     link = $('#marquee').children('a').last();
 
-    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="assets/icons/_uzi_.png"> ');
+    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="assets/icons/rose.png"> ');
   }
 
   if (mobileAndTabletCheck()) {
@@ -75,8 +75,8 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.n','volted.ne','volted.net']);
-  app.iconChanger(['assets/icons/_uzi_.png']);
+  app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.n','volted.ne','volted.net','volted.ne','volted.n','volted.','volted','volte','volt','vol','vo','v']);
+  app.iconChanger(['assets/icons/rose.png']);
 });
 
 if ($.cookie('videoTime')) {
