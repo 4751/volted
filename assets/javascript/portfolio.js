@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['volted.net']);
+  app.titleChanger(['volted.net', 'volted.cc']);
   app.iconChanger(['assets/icons/giphy.gif']);
 });
 
