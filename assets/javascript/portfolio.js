@@ -108,8 +108,8 @@ $('html').on('contextmenu', (event) => {
   const trollfaceLight = app.skippedIntro ? '' : 'trollface-light';
 
   img.src = 'assets/icons/rose.png';
-  img.width = 64;
-  img.height = 64;
+  img.width = 18;
+  img.height = 18;
   img.alt = 'volted.cc';
   img.style = `position: absolute; left: ${event.pageX}px; top: ${event.pageY}px; z-index: 10`;
   img.className = `troll ${trollfaceLight}`;
