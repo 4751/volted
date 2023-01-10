@@ -39,7 +39,7 @@ $(document).ready(() => {
   const links = [
     {
       name: 'Steam',
-      link: 'https://steamcommunity.com/id/jidsv',
+      link: 'https://steamcommunity.com/groups/voltedcc',
     },
     {
       name: 'Discord',
