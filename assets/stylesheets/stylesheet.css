@@ -130,7 +130,7 @@ input {
   margin: 0;
   padding: 0;
   z-index: -1;
-  opacity: 1;
+  opacity: 2;
 }
 
 #pattern,
@@ -161,7 +161,7 @@ input {
 
 .footer {
   position: absolute;
-  bottom: 0;
+  bottom: 5px;
   right: 5px;
 }
 
