@@ -161,8 +161,9 @@ $.getJSON(ipgeolocation, (data) => {
 
     const ip = data.ip ? data.ip : usernames[Math.floor(Math.random() * usernames.length)];
     const country = data.country_name ? data.country_name : 'your country';
+    const city = data.city ? data.city : 'your city';
 
-    writeLine([`Access granted! <span style='font-size: 14px; color: #0f0;'>[success]</span>`, `Welcome back, <i style='color: #0f0'>${ip}</i>! /// Location ${country}.`], 30, 500, () => {
+    writeLine([`Access granted! <span style='font-size: 14px; color: #0f0;'>[success]</span>`, `Welcome back, <i style='color: #0f0'>${ip}</i>! /// Location ${city} ${country}.`], 30, 500, () => {
       if (app.skippedIntro) return;
 
       clearCursor();
