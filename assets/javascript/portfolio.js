@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.c','volted.cc','volted.c','volted.','volted','volte','volt','vol','vo','v']);
+  app.titleChanger(['v', 'vo','vol','volt','volte','volted','volted.','volted.c','volted.cc','volted.c','volted.','volted','volte','volt','vol','vo']);
   app.iconChanger(['assets/icons/rose.png']);
 });
 
