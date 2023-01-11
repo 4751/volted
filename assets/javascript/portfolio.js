@@ -3,7 +3,6 @@
 Credits:
     - Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
     - expl0it, shellcode.team
-    - Steam (emoticon: https://steamcommunity-a.akamaihd.net/economy/emoticon/:rosered:)
 
 Thanks for:
     - Google
