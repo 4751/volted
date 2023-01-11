@@ -1,5 +1,5 @@
 # volted.cc
-🌹Website for my portfolio
+This is my portfolio.
 
 Preview - https://volted.cc/
 
