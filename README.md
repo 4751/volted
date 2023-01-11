@@ -1,5 +1,5 @@
 # volted.cc
-This is my portfolio.
+<img class="emoticon" src="assets/icons/rose.png"> This is my portfolio.
 
 Preview - https://volted.cc/
 
