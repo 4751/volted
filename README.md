@@ -7,7 +7,7 @@ Preview - https://volted.cc/
 
 ## Features:
 * Title and icon changer (every 2 seconds)
-* Cool intro (displays ip and country)
+* Cool intro (displays ip, city and country)
 * Logo animations
 * Brand description with typed.js
 * Mobile and tablet check (`if true - remove background video and music, then set background image`)
