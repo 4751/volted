@@ -1,7 +1,7 @@
-# obnoxious.club
-🌹Website for my team's portfolio
+# volted.cc
+🌹Website for my portfolio
 
-Preview - https://obnoxious.club/
+Preview - https://volted.cc/
 
 ![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
