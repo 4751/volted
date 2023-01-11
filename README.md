@@ -17,5 +17,5 @@ Preview - https://volted.cc/
 
 ## Special thanks to
 * Lummit
- <a href="https://github.com/szolowicz" target="_BLANK">Github</a>
- <a href="https://discord.com/" target="_BLANK">Lummit#0201</a>
+ - <a href="https://github.com/szolowicz" target="_BLANK">Github</a>
+ - <a href="https://discord.com/" target="_BLANK">Lummit#0201</a>
