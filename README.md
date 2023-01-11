@@ -17,5 +17,3 @@ Preview - https://volted.cc/
 
 ## Special thanks to
 * Lummit: <a href="https://github.com/szolowicz" target="_BLANK">Github,</a> <a href="https://discord.com/" target="_BLANK">Lummit#0201</a>
-
-<li><a data-placement="bottom" title="Steam" style="border-radius:13px;" class="fab fa-steam" target="_blank" href="https://steamcommunity.com/id/skere/"><div class="overlay"></div></a></li>
