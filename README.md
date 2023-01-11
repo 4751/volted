@@ -3,7 +3,7 @@ This is my portfolio.
 
 Preview - https://volted.cc/
 
-![Made with love in Poland](https://madewithlove.now.sh/test?heart=true)
+![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
 ## Features
 * Title and icon changer (every 2 seconds)
