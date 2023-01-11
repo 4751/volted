@@ -16,5 +16,6 @@ Preview - https://volted.cc/
 * Modern design (probably lol)
 
 ## Special thanks to
-* Lummit#0201
-  <a href="https://github.com/lumm1t" target="_BLANK">Github</a>
+* Lummit
+* <a href="https://github.com/lumm1t" target="_BLANK">Github</a>
+* <a href="https://discord.com/" target="_BLANK">Lummit#0201</a>
