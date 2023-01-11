@@ -15,14 +15,5 @@ Preview - https://volted.cc/
 * Music fade in
 * Modern design (probably lol)
 
-##Special thanks to
+## Special thanks to
 * Lummit#0201
-
-
-## Thanks for:
-* Google
-* StackOverflow
-* jQuery
-* jQuery Marquee
-* animate.css
-* typed.js
