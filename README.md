@@ -5,7 +5,7 @@ Preview - https://volted.cc/
 
 ![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
-## Features
+## Features:
 * Title and icon changer (every 2 seconds)
 * Cool intro (displays ip and country)
 * Logo animations
@@ -15,9 +15,11 @@ Preview - https://volted.cc/
 * Music fade in
 * Modern design (probably lol)
 
-
-## Thanks for
+##Special thanks to
 * Lummit#0201
+
+
+## Thanks for:
 * Google
 * StackOverflow
 * jQuery
