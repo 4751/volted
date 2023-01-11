@@ -3,7 +3,7 @@ This is my portfolio.
 
 Preview - https://volted.cc/
 
-![Made with love in Poland](https://madewithlove.now.sh/in?heart=true)
+![Special thanks to Lummit](https://Specialthankslove.now.sh/test?heart=true)
 
 ## Features
 * Title and icon changer (every 2 seconds)
