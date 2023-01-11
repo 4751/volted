@@ -17,6 +17,7 @@ Preview - https://volted.cc/
 
 
 ## Thanks for
+* `Lummit#0201`
 * Google
 * StackOverflow
 * jQuery
