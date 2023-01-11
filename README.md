@@ -15,15 +15,6 @@ Preview - https://volted.cc/
 * Music fade in
 * Modern design (probably lol)
 
-## Screenshots
-###### \*click for larger size\*
-Intro:
-
-[<img width="500" src="https://i.imgur.com/iaAM1B0.png" alt="Intro">](https://i.imgur.com/iaAM1B0.png)
-
-Main:
-
-[<img width="500" src="https://i.imgur.com/RirElZr.png" alt="Main">](https://i.imgur.com/RirElZr.png)
 
 ## Thanks for
 * Google
