@@ -3,7 +3,6 @@ This is my portfolio. <img class="emoticon" src="assets/icons/rose.png">
 
 Preview - https://volted.cc/
 
-![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
 ## Features:
 * Title and icon changer (every 2 seconds)
