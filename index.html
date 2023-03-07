@@ -94,6 +94,16 @@
       <i><a class="skip">ㅤ</a></i>
     </div>
 
+    <h5 id="time"></h5>
+      <script>
+        function displayTime() {
+          var date = new Date();
+          var time = date.toLocaleTimeString();
+          document.getElementById("time").innerHTML = time;
+        }
+        setInterval(displayTime, 1000);
+      </script>
+    
     <div class="footer">
       <i><a href="https://discord.gg/MSgu32t" target="_BLANK">Discord</a></i>
     </div>
